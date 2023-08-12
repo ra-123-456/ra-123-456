@@ -1,5 +1,5 @@
 # heyo
-im ra123, but username is already used
+im ra123
 
 # what do i do
 code
